@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"test branch"<<endl;
+	cout<<"testb branch"<<endl;
 	return 0;
 }
