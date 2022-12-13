@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"master branch"<<endl;
+	cout<<"readme branch"<<endl;
 	return 0;
 }
